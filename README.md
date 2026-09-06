@@ -22,7 +22,7 @@
 
 Mi nombre es **Neifer** y bienvenido a mi perfil.
 
-Actualmente estoy cursando una Formación Superior de Desarrollo de Aplicaciones. Me encanta la programación y gestionar servicios en la nube, busco expandir mis habilidades con mis proyectos y experiencias para crecer más en mi desarrollo profesional.
+Actualmente estoy cursando una Formación Superior de Desarrollo de Aplicaciones. Me encanta la programación y gestionar servicios en la nube. Busco expandir mis habilidades con mis proyectos y experiencias para crecer más en mi desarrollo profesional.
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   
